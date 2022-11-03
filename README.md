@@ -1,9 +1,9 @@
-# robosys202x
-CIT robosys
-![test](https://github.com/otake/robosys202x/actions/workflows/test.yml/badge.svg)
+# plusコマンド
+![test](https://github.com/ohtaketakumi/robosys202x/actions/workflows/test.yml/badge.svg)
 
 ソフトの内容
 標準入力から読み込んだ数字を足す
+
 ## 必要なソフトウェア
 * python
  * テスト済み：3.7～3.10
