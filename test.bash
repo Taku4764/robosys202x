@@ -1,6 +1,6 @@
 #!/bin/bash -xv
-#SPDX-FileCopyrightText: 2022 Takumi Ohtake
-#SPDX-License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: 2022 Takumi Ohtake
+# SPDX-License-Identifier: BSD-3-Clause
 
 ng (){
 	echo NG at Line $1
