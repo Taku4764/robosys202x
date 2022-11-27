@@ -3,6 +3,7 @@
 #SPDX-License-Identifier: BSD-3-Clause
 
 import sys
+import re
 
 x = 0
 for n in sys.stdin:
