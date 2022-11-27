@@ -1,19 +1,15 @@
 # plusコマンド
 ![test](https://github.com/Taku4764/robosys202x/actions/workflows/test.yml/badge.svg)
+
 内容
 
 標準入力から読み込んだ数字を足す。
 
 ・使い方
 
-1. Ubuntuをインストールする
+1. 端末を使えるようにする
 
-2. WSLを使えるようにする
-
-
-
-
-
+2. Gitをインストールして使えるようにしておく
 
 
 手伝ってくださりありがとうございます。
