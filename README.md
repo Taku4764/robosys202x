@@ -1,16 +1,26 @@
 # plusコマンド
 ![test](https://github.com/Taku4764/robosys202x/actions/workflows/test.yml/badge.svg)
+内容
 
 標準入力から読み込んだ数字を足す。
 
 ・使い方
- Ubuntuをインストールする
- Windows shell を使えるようにする
+
+1. Ubuntuをインストールする
+
+2. WSLを使えるようにする
+
+
+
+
 
 
 
 手伝ってくださりありがとうございます。
+
+
 ・手伝ってくださった方
+
 　随時更新
 
 ## 必要なソフトウェア
