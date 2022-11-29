@@ -13,7 +13,15 @@
 
 3. cdコマンドを使ってrobosys202xへ移動する
 
-4. seq (任意の数字）| ./plus と打ち込む
+4. git clone https://github.com/Taku4764/robosys202x を打ち込みインストールをする
+
+5. seq (任意の数字) | ./plusと打ち込む
+
+使用例
+
+$ seq 5 | ./plus
+
+15
 
 
 ## 必要なソフトウェア
